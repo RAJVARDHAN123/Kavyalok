@@ -18,5 +18,22 @@
   "categories": [
     "education",
     "entertainment"
+  ],
+  "shortcuts": [
+    {
+      "name": "Add shayari",
+      "url": "https://kavyalok.netlify.app/admin/",
+      "description": "Add another shayari to your shayari collection"
+    },
+    {
+      "name": "Edit settigns",
+      "url": "https://kavyalok.netlify.app/settings/",
+      "description": "Edit your preferences"
+    },
+    {
+      "name": "View shayaris",
+      "url": "https://kavyalok.netlify.app/",
+      "description": "View your shayaris collections"
+    }
   ]
 }
