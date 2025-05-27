@@ -3,7 +3,7 @@
   "short_name": "Kavyalok",
   "description": "It's a shayari showcasing platform made by Raj Vardhan Singh.",
   "start_url": "/",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#181825",
   "theme_color": "#e0e7ff",
