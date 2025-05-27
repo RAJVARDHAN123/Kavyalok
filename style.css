@@ -11,6 +11,7 @@ body {
   background-color: #f5f5f7;
   height: 100vh;
   overflow: hidden;
+  overflow-x:hidden;
 }
 
 .slide-container {
@@ -219,7 +220,8 @@ body {
 #searchBar.visible {
   opacity: 1;
   transform: scaleX(1);
-  width: 250px;
+  width: 100px;
+  max-width: 100px;
   pointer-events: auto;
 }
 
